@@ -1,5 +1,9 @@
+html{
+	scroll-behavior: smooth;
+}
 body{
 	color: black;
+
 }
 .navbar-nav a{
 	color: black;
