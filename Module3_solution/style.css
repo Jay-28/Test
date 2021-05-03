@@ -4,6 +4,7 @@ body{
 .navbar-nav a{
 	color: black;
 }
+
 #sub-header{
 	font-size: 1.3em;
 	margin-bottom: 20px;
@@ -11,8 +12,9 @@ body{
 }
 .content{
 	background-color: gray;
-	padding-left: 5px;
-	padding-right: 5px;
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-top: 5px;
 }
 .content-container{
 padding-left: 5px;
